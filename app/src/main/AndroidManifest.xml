@@ -14,9 +14,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RetroFitAPI">
         <activity
-            android:name=".view.Activity1"
-            android:exported="false" />
-        <activity
             android:name=".ActivityDetails"
             android:exported="false" />
         <activity
